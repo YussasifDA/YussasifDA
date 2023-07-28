@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YussasifDA
 - 👀 I’m interested in Data Analytics, Visualization, 
 - 🌱 I’m currently learning Data Analytics and Visualization
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to collaborate on projects and jobs
 - 📫 You can reavh me at odude.yusuf@gmail.com
 
 <!---
