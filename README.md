@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics, Visualization, 
 - 🌱 I’m currently learning Data Analytics and Visualization
 - 💞️ I’m looking to collaborate on projects and jobs
-- 📫 You can reavh me at odude.yusuf@gmail.com
+- 📫 You can reach me at odude.yusuf@gmail.com
 
 <!---
 YussasifDA/YussasifDA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
